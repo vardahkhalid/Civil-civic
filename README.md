@@ -21,7 +21,7 @@ git clone https://github.com/vardahkhalid/Civil-civic
 ```
 Navigate to civil civic
 ``` wsl/linux
-cd examples/pipelines/demo-questuion-answering/civilcivic
+cd examples/pipelines/demo-questuion-answering
 ```
 create you gemini-apikey and paste it in .env file
 
