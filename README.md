@@ -47,4 +47,8 @@ get to streamlit web page via link given on wsl and just ask query there.
 now setup is completed and you can just ask question there webpage
 
 Here below is demo video of it working
-[Watch the demo video](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
+
+
+https://github.com/user-attachments/assets/dbdbf127-2967-493a-81b3-8f33e5c928f3
+
+
